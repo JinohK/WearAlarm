@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WearAlarm</string>
+
+    <string name="main_alarm_time">Select to receive an alarm time.</string>
+    <string name="main_select_all">Select All</string>
+    <string name="main_select_activity">Activity time only</string>
+</resources>
